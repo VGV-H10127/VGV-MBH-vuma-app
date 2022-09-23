@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/versorgungswerke/{bukrs}": {
+      "name": "/versorgungswerke/{bukrs}",
+      "lambdaFunction": "versorgungswerkeHandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

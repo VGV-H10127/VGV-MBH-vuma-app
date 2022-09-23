@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vumaapp-dev-142756-authRole",
+      "UnauthRoleArn": "arn:aws:iam::897893870701:role/amplify-vumaapp-dev-142756-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::897893870701:role/amplify-vumaapp-dev-142756-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-vumaapp-dev-142756-deployment",
+      "UnauthRoleName": "amplify-vumaapp-dev-142756-unauthRole",
+      "StackName": "amplify-vumaapp-dev-142756",
+      "StackId": "arn:aws:cloudformation:eu-central-1:897893870701:stack/amplify-vumaapp-dev-142756/fec2c580-35ba-11ed-bb52-0a6a6a663b48",
+      "AmplifyAppId": "d2c1f04emlko94"
+    },
+    "categories": {
+      "function": {
+        "versorgungswerkeHandler": {
+          "deploymentBucketName": "amplify-vumaapp-dev-142756-deployment",
+          "s3Key": "amplify-builds/versorgungswerkeHandler-51526e686d4466794475-build.zip"
+        }
+      }
+    }
+  }
+}
